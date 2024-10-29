@@ -26,7 +26,9 @@ Welcome to my GitHub! I'm a dedicated **Full-Stack Developer** with a strong pas
 
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+), React, Vue.js, Angular
 
-- **Backend**: Node.js, Express.js, Django, Flask, Ruby on Rails
+- **Backend**: Node.js, Express.js, Django, Golang, Flask, Ruby on Rails
+
+- **Blockchain**: Ethereum, Solana, Arbitrum, Polygon, IOTA 
 
 - **Databases**: MySQL, PostgreSQL, MongoDB, Firebase
 
@@ -41,24 +43,6 @@ Welcome to my GitHub! I'm a dedicated **Full-Stack Developer** with a strong pas
 - **JavaScript**, **Rust**, **Solidity**, **Python**, **Golang**, **Java**, **Kotlin**, **C++**, **C#**, **Dart**, 
 
 
-
-#### Mobile Development
-
-- **Android**, **iOS**
-
-
-
-#### Frameworks & Libraries
-
-- **React**, **React Native**, **Flutter**, **Node.js**, **Laravel**, with specialized expertise in **Blockchain** technologies
-
-
-
-#### Tools & Platforms
-
-- **Docker**: For containerization and efficient deployment
-
-- **CI/CD**: Jenkins, Travis CI
 
 
 
