@@ -1,8 +1,8 @@
-## 👋 Hi, I'm Gabriel
+## 👋 Hi, I'm Toby
 
 
 
-Welcome to my GitHub! I'm a dedicated **Full-Stack Developer** with a strong passion for innovation and technology. My expertise spans across **Blockchain**, **Python**, and **JavaScript**, empowering me to create cutting-edge solutions.
+Welcome to my GitHub! I'm a dedicated **Full-Stack Developer** with a strong passion for innovation and technology. My expertise spans across **JavaScript**, **Node.js**, and **Python**, empowering me to create cutting-edge solutions.
 
 
 
